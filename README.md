@@ -10,7 +10,6 @@ Simple, link to the files in header
 <script src="shipping-carrier-helper.js"></script>
 ```
 
-# TODO: 
-
-- [] include an example
+### TODO: 
+[] include an example
 
